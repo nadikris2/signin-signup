@@ -89,3 +89,17 @@ form.sing-in-form{
     font-size: 1.1rem;
     color: #333;
 }
+.input-field input::placeholder {
+    color: #aaa;
+    font-weight: 500;
+  }
+  
+.social-text {
+    padding: 0.7rem 0;
+    font-size: 1rem;
+}
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+  
